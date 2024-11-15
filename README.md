@@ -1,7 +1,7 @@
 # 👋 About Me
 
 ## 💡 Hello
-Hello, I’m ***Mingze Wang***, currently living in Beijing, China. I’m a guy who loves basketball and enjoys staying at home.
+Hello, I’m ***Mingze Wang***, currently living in Beijing, China. I’m a guy who loves basketball and enjoys staying at home. My email: wmz20000729@gmail.com / wmz20000729@buaa.edu.cn
 
 ## 🔥 Recent News
 - *2024.11*: Receiving the  **<font color="red">National Scholarship</font>** is truly something to be happy about!
