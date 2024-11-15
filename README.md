@@ -17,5 +17,5 @@ Hello, I’m ***Mingze Wang***, currently living in Beijing, China. I’m a guy 
 - *2023.04* - *2024.03*: **Intern** at **Xiaohongshu Inc.**'s Ecosystem Algorithm Team(生态算法组), focusing on applying multimodal and machine learning techniques for community content understanding and ecosystem development.
 
 ## 📖 Education
-- *2022.09* - *2025.01*: I will received M.S degree in [Beihang University](https://www.buaa.edu.cn/); School of Automation Science and Electrical Engineering advised by Prof. Jinhu Lv and Prof. Baochang Zhang
-- *2018.09* - *2022.06*: I received B.S. degree in [Beihang University](https://www.buaa.edu.cn/); School of Aeronautic Science and Engineering
+- *2022.09* - *2025.01*: I will received M.S degree in [Beihang University](https://www.buaa.edu.cn/), School of Automation Science and Electrical Engineering advised by Prof. Jinhu Lv and Prof. Baochang Zhang
+- *2018.09* - *2022.06*: I received B.S. degree in [Beihang University](https://www.buaa.edu.cn/), School of Aeronautic Science and Engineering
