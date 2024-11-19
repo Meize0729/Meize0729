@@ -14,7 +14,7 @@ Hello, I’m ***Mingze Wang***, currently living in Beijing, China. I’m a guy 
 
 ## 💵 Work Experience
 - *2024.11* - *Future*: Where should I work in the end? I'm still struggling to decide.
-- *2024.03* - *2024.11*: **Intern** at **ByteDance** E-commerce Governance Team(Global E-commerce Tiktok shop Business Line)(电商-平台治理), leveraging LLM, MLLM and CV technologies to support brand identification, intention recognition and machine-based auditing processes.
+- *2024.03* - *2024.11*: **Intern** at **ByteDance** E-commerce Governance Team(Global E-commerce Tiktok shop Business Line)(电商-平台治理, Tiktok shop业务线), leveraging LLM, MLLM and CV technologies to support brand identification, intention recognition and machine-based auditing processes.
 - *2023.04* - *2024.03*: **Intern** at **Xiaohongshu Inc.**'s Ecosystem Algorithm Team(生态算法组), focusing on applying multimodal and machine learning techniques for Redbook community content understanding and ecosystem development.
 
 ## 📖 Education
