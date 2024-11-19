@@ -5,7 +5,7 @@ Hello, I’m ***Mingze Wang***, currently living in Beijing, China. I’m a guy 
 
 ## 🔥 Recent News
 - *2024.11*: A new [paper](https://arxiv.org/abs/2411.11360) has been released. This may be the final work of my academic career~
-- *2024.11*: Receiving the  **<font color="red">National Scholarship</font>** is truly something to be happy about!
+- *2024.11*: Receiving the  **<font color="red">"National Scholarship, Ministry of Education, PRC"</font>** is truly something to be happy about!
 - *2024.08*: A [paper](https://ieeexplore.ieee.org/document/10623867) is accepted by **<font color="red">TGRS</font>** (**IF=8.2**) in 2022.
 - *2024.03*: A [paper](https://proceedings.mlr.press/v235/xu24z.html) is accepted by **<font color="red">ICML</font>** (**CCF-A**) in 2022.
 - *2024.07*: A [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-47665-5_25.pdf?pdf=inline%20link) is accepted by **<font color="red">ACPR</font>** in 2023.
