@@ -4,6 +4,7 @@
 Hello, I’m ***Mingze Wang***, currently living in Beijing, China. I’m a guy who loves basketball and enjoys staying at home. My email: wmz20000729@gmail.com / wmz20000729@buaa.edu.cn
 
 ## 🔥 Recent News
+- *2024.11*: I received **<font color="red">"Outstanding Graduate of Beijing"</font>**.
 - *2024.11*: A new [paper](https://arxiv.org/abs/2411.11360) has been released. This may be the final work of my academic career~
 - *2024.11*: Receiving the  **<font color="red">"National Scholarship, Ministry of Education, PRC"</font>** is truly something to be happy about!
 - *2024.08*: A [paper](https://ieeexplore.ieee.org/document/10623867) is accepted by **<font color="red">TGRS</font>** (**IF=8.2**) in 2022.
